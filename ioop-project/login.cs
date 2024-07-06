@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ioop_project
 {
-    public partial class login : Form
+    public partial class Register : Form
     {
-        public login()
+        public Register()
         {
             InitializeComponent();
         }
@@ -34,6 +34,11 @@ namespace ioop_project
 
         private void guna2HtmlLabel1_Click(object sender, EventArgs e)
         {
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
