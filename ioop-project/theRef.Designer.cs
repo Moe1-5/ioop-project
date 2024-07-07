@@ -163,7 +163,7 @@
 
         }
 
-        #endregion
+        #endregion 
 
         private System.Windows.Forms.Panel panel1;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
