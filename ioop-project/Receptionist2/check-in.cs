@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ioop_project.Receptionist2
 {
-    public partial class reservation : Form
+    public partial class check_in : Form
     {
-        public reservation()
+        public check_in()
         {
             InitializeComponent();
-        }
-
-        private void guna2HtmlLabel12_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
