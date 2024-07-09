@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace ioop_project.Receptionist2
 {
-    public partial class reservation : Form
+    public partial class Bill : Form
     {
-        public reservation()
+        public Bill()
         {
             InitializeComponent();
         }
 
-        private void guna2HtmlLabel12_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

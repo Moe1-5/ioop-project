@@ -16,5 +16,10 @@ namespace ioop_project.Receptionist2
         {
             InitializeComponent();
         }
+
+        private void guna2DateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
