@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ioop_project.Manager
+namespace ioop_project.Receptionist2
 {
-    public partial class View : Form
+    public partial class check_in : Form
     {
-        public View()
+        public check_in()
         {
             InitializeComponent();
-        }
-
-        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }

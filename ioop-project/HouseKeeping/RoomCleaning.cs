@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ioop_project.Manager
+namespace ioop_project.HouseKeeping
 {
-    public partial class View : Form
+    public partial class RoomCleaning : Form
     {
-        public View()
+        public RoomCleaning()
         {
             InitializeComponent();
-        }
-
-        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }

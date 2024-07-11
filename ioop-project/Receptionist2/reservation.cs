@@ -16,5 +16,15 @@ namespace ioop_project.Receptionist2
         {
             InitializeComponent();
         }
+
+        private void guna2HtmlLabel12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
