@@ -21,5 +21,10 @@ namespace ioop_project.Receptionist2
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

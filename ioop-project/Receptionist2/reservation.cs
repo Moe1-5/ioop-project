@@ -26,5 +26,10 @@ namespace ioop_project.Receptionist2
         {
 
         }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
